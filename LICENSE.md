@@ -1,4 +1,4 @@
-# 
+# Gratuito AI Emotion Detection from Text preajustes. Con entrenamiento de modelos y ética de la IA — optimizado para el máximo rendimiento.
 
 
 
